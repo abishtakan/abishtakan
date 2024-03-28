@@ -1,6 +1,6 @@
 # Hi 👋 My name is Abishtakan Sivachandrathevan
 
-## Frontend Developer and UI/UX Designer
+## Full-stack Developer
 
 - 🌍  I'm based in Colombo, Sri Lanka.
 - ✉️  You can contact me at [abishtakan@gmail.com](mailto:abishtakan@gmail.com)
