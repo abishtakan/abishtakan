@@ -51,7 +51,7 @@ I am a Software Engineering student and 1st place winner of the UOW Problem-Solv
 
 ### 🚀 Featured Work & Architecture
 
-* **[Hybrid Quantum-Classical Neural Network](link-here):** Architected an ML pipeline integrating multimodal clinical and genomic data to predict glioblastoma survival rates, achieving >80% accuracy. *(Python, PyTorch, PennyLane)*
+* **Hybrid Quantum-Classical Neural Network:** Architected an ML pipeline integrating multimodal clinical and genomic data to predict glioblastoma survival rates, achieving >80% accuracy. *(Python, PyTorch, PennyLane)*
 * **QR Restaurant System:** Designed a multi-tenant, QR-enabled ordering platform with real-time WebSocket synchronization and secure RBAC. *(Nest.js, Next.js, PostgreSQL, Docker)*
 * **NHSL Clinic Management System:** Digitized patient onboarding and clinical records for a plastic surgery unit, automating WhatsApp notifications and saving 6-8 manual hours weekly. *(Node.js, PostgreSQL, Docker)*
 * **FoodLens:** AI-powered food analysis companion featured at Cutting Edge 2024. *(Flutter, Python, Flask, Firebase)*
